@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stewartmustang
-- 👀 I’m interested in learning how to ise my FlipperZero.
+- 👀 I’m interested in learning how to use my FlipperZero.
 - 🌱 I’m currently learning how code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
