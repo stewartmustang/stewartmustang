@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stewartmustang
-- 👀 I’m interested in learning how to use my FlipperZero.
-- 🌱 I’m currently learning how code
+- 👀 I’m interested in learning how to use my FlipperZero. I am not looking to hack the world just looking to see what I can do with this tool 
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
